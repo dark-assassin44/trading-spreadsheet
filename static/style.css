@@ -332,7 +332,7 @@ dd.adamant ~ dt.ivs + dd .atk, dd.brave ~ dt.ivs + dd .atk, dd.lonely ~ dt.ivs +
 dd.bold ~ dt.ivs + dd .def, dd.impish ~ dt.ivs + dd .def, dd.relaxed ~ dt.ivs + dd .def,
 dd.modest ~ dt.ivs + dd .spa, dd.mild ~ dt.ivs + dd .spa, dd.rash ~ dt.ivs + dd .spa, dd.quiet ~ dt.ivs + dd .spa,
 dd.calm ~ dt.ivs + dd .spd, dd.careful ~ dt.ivs + dd .spd, dd.sassy ~ dt.ivs + dd .spd,
-dd.jolly ~ dt.ivs + dd .spe, dd.timid ~ dt.ivs + dd .spe, dd.hasty ~ dt.ivs + dd .spe, dd.naive ~ dt.ivs + dd .spe{ color: #c00000; }
+dd.jolly ~ dt.ivs + dd .spe, dd.timid ~ dt.ivs + dd .spe, dd.hasty ~ dt.ivs + dd .spe, dd.naive ~ dt.ivs + dd .spe{ color: #f04040; }
 
 td.modest ~ td.atk, td.timid ~ td.atk, td.calm ~ td.atk, td.bold ~ td.atk,
 td.lonely ~ td.def, td.mild ~ td.def, td.hasty ~ td.def,
@@ -343,7 +343,7 @@ dd.modest ~ dt.ivs + dd .atk, dd.timid ~ dt.ivs + dd .atk, dd.calm ~ dt.ivs + dd
 dd.lonely ~ dt.ivs + dd .def, dd.mild ~ dt.ivs + dd .def, dd.hasty ~ dt.ivs + dd .def,
 dd.adamant ~ dt.ivs + dd .spa, dd.jolly ~ dt.ivs + dd .spa, dd.impish ~ dt.ivs + dd .spa, dd.careful ~ dt.ivs + dd .spa,
 dd.naive ~ dt.ivs + dd .spd, dd.rash ~ dt.ivs + dd .spd, td.naughty  ~ td.spd,
-dd.brave ~ dt.ivs + dd .spe, dd.quiet ~ dt.ivs + dd .spe, dd.sassy ~ dt.ivs + dd .spe, dd.relaxed ~ dt.ivs + dd .spe{ color: #0000d0; }
+dd.brave ~ dt.ivs + dd .spe, dd.quiet ~ dt.ivs + dd .spe, dd.sassy ~ dt.ivs + dd .spe, dd.relaxed ~ dt.ivs + dd .spe{ color: #8080dd; }
 
 tr.hidden-ability .ability { font-weight: bold; }
 

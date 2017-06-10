@@ -312,14 +312,15 @@ tr.shiny td.name::before,
 }
 
 tr:hover td {
-    background-color: #e0e0e0;
+    background-color: #505050;
     cursor:cell;
 }
 tr.selected td {
-    background-color: #e0e0e0;
+    background-color: #505050;
 }
 tr.selected:hover td {
     background-color: #f0f0f0;
+    color: #000;
     cursor:not-allowed
 }
 
